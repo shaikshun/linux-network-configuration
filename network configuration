@@ -1,0 +1,44 @@
+# Linux Network Configuration Project
+
+## 📌 Overview
+This project demonstrates manual network configuration in Linux systems.
+
+---
+
+## 🎯 Objectives
+- Configure static IP address
+- Set hostname
+- Configure DNS
+- Test connectivity
+
+---
+
+## 🧰 Commands Used
+- nmcli
+- ip a
+- ping
+- hostnamectl
+- systemctl restart NetworkManager
+
+---
+
+## ⚙️ Tasks Performed
+- Assigned static IP
+- Updated hostname
+- Tested internet connectivity
+- Verified DNS configuration
+
+---
+
+## 💻 Environment
+- RHEL / Ubuntu
+- VMware Network Adapter
+
+---
+
+
+## ✅ Skills Demonstrated
+- Network Administration
+- Linux Configuration
+- Connectivity Troubleshooting
+
